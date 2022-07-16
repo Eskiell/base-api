@@ -1,16 +1,14 @@
 {
-  "name": "",
-  "version": "",
+  "name": "eskiel-base-swagger-api",
   "description": "OpenAPI client for ",
   "author": "OpenAPI-Generator Contributors",
   "keywords": [
     "axios",
     "typescript",
     "openapi-client",
-    "openapi-generator",
-    ""
+    "openapi-generator"
   ],
-  "license": "Unlicense",
+  "license": "MIT",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "scripts": {
@@ -23,5 +21,14 @@
   "devDependencies": {
     "@types/node": "^12.11.5",
     "typescript": "^3.6.4"
-  }
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eskiell/base-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eskiell/base-api/issues"
+  },
+  "homepage": "https://github.com/Eskiell/base-api#readme"
 }
